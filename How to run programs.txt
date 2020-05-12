@@ -1,0 +1,1 @@
+g++ -o  <<Application_name>> <implementaion.cpp> <program.cpp>
